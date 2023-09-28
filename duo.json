@@ -1,0 +1,24 @@
+{
+    "urls": [
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/RayLiang9/0/main/new.json",
+            "name": "线路一"
+        },
+        {
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/RayLiang9/0/main/new.json",
+            "name": "线路二"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/RayLiang9/0/main/new.json",
+            "name": "线路三"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/RayLiang9/0/main/new.json",
+            "name": "线路四"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/RayLiang9/0/main/new.json",
+            "name": "线路五"
+        }
+    ]
+}
